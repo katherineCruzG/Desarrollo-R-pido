@@ -1,0 +1,20 @@
+.menu-link {
+    padding: 0 20px;
+    display: inline-block;
+    width: 100%;
+    border: 0;
+    border-bottom-width: 1px;
+    border-style: solid;
+    border-color: #e12020;
+    color: black;
+}
+
+.ast-menu-toggle {
+    color: #fa8b23;
+}
+
+
+
+.ast-header-social-1-wrap .ast-social-color-type-custom svg {
+    fill: #0b0c00;
+}
